@@ -1,0 +1,3 @@
+//This should be rename .env
+DATABASE_URL ='mongodb://localhost/sayburgh'
+TOKEN_KEY = 'secret-key-for-password'
